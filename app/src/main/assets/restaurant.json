@@ -1,0 +1,92 @@
+{
+  "rest": [
+    {
+      "id": 1,
+      "restaurant": "Chicken Inn",
+      "location": "Ngong Road",
+      "category": "Rotisserie Chicken",
+      "food": "Full Chicken-1000, 1/2 Chicken-500, 1/4 Chicken- 250, Full Chicken with Large Chips-1100, 1/2 Chicken with regular Chips-600, 1/4 Chicken with regular Chicken-350",
+      "done": false,
+      "createdAt": "2019-06-19 14:52:53.008 +00:00",
+      "updatedAt": "2019-06-19 14:52:53.008 +00:00",
+      "UserId": null
+    },
+    {
+      "id": 2,
+      "restaurant": "Chicken Inn",
+      "location": "Ngong Road",
+      "category": "Chicken Pieces",
+      "food": "1 Piece (order as many as you like)-100, 1 Piecer with Regular Chips-200, 2 Piecer with large Chips-300, 3 Piecer with regular Chips and Colesaw- 450, 6 Piecer (2* Regular Chips & 2* Colesaw)-900",
+      "done": false,
+      "createdAt": "2019-06-19 14:58:09.921 +00:00",
+      "updatedAt": "2019-06-19 14:58:09.921 +00:00",
+      "UserId": null
+    },
+    {
+      "id": 3,
+      "restaurant": "Chicken Inn",
+      "location": "Ngong Road",
+      "category": "Burgers",
+      "food": "Chicken Burger-350, Double Chicken Burger with Cheese-600, Spicy Chicken Burger-350, Beef Burger-200, Beef Burger with Cheese-250",
+      "done": false,
+      "createdAt": "2019-06-19 14:59:44.330 +00:00",
+      "updatedAt": "2019-06-19 14:59:44.330 +00:00",
+      "UserId": null
+    },
+    {
+      "id": 4,
+      "restaurant": "Chicken Inn",
+      "location": "Ngong Road",
+      "category": "Value Meals",
+      "food": "Value Chicken Burger with Regular Chips-200, 4 Spicy Wings-200, 4 Spicy Wings with Regular Chips-300, Chicken Bites (small)-150, Chicken Bites (large)-350",
+      "done": false,
+      "createdAt": "2019-06-19 14:59:54.298 +00:00",
+      "updatedAt": "2019-06-19 14:59:54.298 +00:00",
+      "UserId": null
+    },
+    {
+      "id": 5,
+      "restaurant": "Chicken Inn",
+      "location": "Ngong Road",
+      "category": "Combo Meals",
+      "food": "1 Piece & Chips & Coke-300, 3 Piecer & Chips & Coke-500, Chicken Burger & Chips & Coke-550",
+      "done": false,
+      "createdAt": "2019-06-19 15:00:07.125 +00:00",
+      "updatedAt": "2019-06-19 15:00:07.125 +00:00",
+      "UserId": null
+    },
+    {
+      "id": 6,
+      "restaurant": "Chicken Inn",
+      "location": "Ngong Road",
+      "category": "Extras",
+      "food": "Colesaw Salad-50, Cheese Slice-50, Chilli Sauce-50, Egg-50",
+      "done": false,
+      "createdAt": "2019-06-19 15:00:17.318 +00:00",
+      "updatedAt": "2019-06-19 15:00:17.318 +00:00",
+      "UserId": null
+    },
+    {
+      "id": 7,
+      "restaurant": "Chicken Inn",
+      "location": "Ngong Road",
+      "category": "Kiddies Meals",
+      "food": "Drumstick with Regular Chips-250, Burger with Regular Chips-250, Bites with Regular Chips-250",
+      "done": false,
+      "createdAt": "2019-06-19 15:00:30.176 +00:00",
+      "updatedAt": "2019-06-19 15:00:30.176 +00:00",
+      "UserId": null
+    },
+    {
+      "id": 8,
+      "restaurant": "Chicken Inn",
+      "location": "Ngong Road",
+      "category": "Chips",
+      "food": "Regular Chips-100, Large chips-150, Mega Chips-200",
+      "done": false,
+      "createdAt": "2019-06-19 15:00:50.275 +00:00",
+      "updatedAt": "2019-06-19 15:00:50.275 +00:00",
+      "UserId": null
+    }
+  ]
+}

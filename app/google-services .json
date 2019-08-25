@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "63398128545",
+    "firebase_url": "https://zawaditestapp.firebaseio.com",
+    "project_id": "zawaditestapp",
+    "storage_bucket": "zawaditestapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63398128545:android:cb594758b12b37be",
+        "android_client_info": {
+          "package_name": "com.maku.zawaditestapp.Network"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63398128545-jn0tdr4ros517c6crlm19r787n2l3f2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maku.zawaditestapp.Network",
+            "certificate_hash": "697abd721b4f7c7a1e2411d8116700b15dd9fbd3"
+          }
+        },
+        {
+          "client_id": "63398128545-1qferd8p8ftn6oivtvppvovo048kj5vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdiqKd3D5-R9dZ-otpEYXa6vhKRBhq5DM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63398128545-1qferd8p8ftn6oivtvppvovo048kj5vf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
